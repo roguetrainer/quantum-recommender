@@ -279,7 +279,7 @@ If you use this code or survey in your research, please cite:
   title = {Quantum Recommender: Quantum Mechanics for Recommendation Systems},
   author = {Ian Buckley},
   year = {2025},
-  url = {https://github.com/[username]/quantum-recommender}
+  url = {https://github.com/roguetrainer/quantum-recommender}
 }
 ```
 
