@@ -279,9 +279,9 @@ If you use this code or survey in your research, please cite:
 ```bibtex
 @software{quantum_recommender_2025,
   title = {Quantum Recommender: Quantum Mechanics for Recommendation Systems},
-  author = {[Your Name]},
+  author = {Ian Buckley},
   year = {2025},
-  url = {https://github.com/[username]/quantum-recommender}
+  url = {https://github.com/roguetrainer/quantum-recommender}
 }
 ```
 
